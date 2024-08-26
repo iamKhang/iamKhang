@@ -63,11 +63,9 @@ My full name is Le Hoang Khang. This year I am 21 years old and currently I am a
 
   
 
-<a  href="http://www.github.com/iamKhang"><img  src="https://github-readme-stats.vercel.app/api?username=iamKhang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true"  alt="iamKhang's GitHub stats" /></a>
+<a  href="http://www.github.com/iamKhang"><img  src="https://github-readme-stats.vercel.app/api?username=iamKhang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true"  alt="iamKhang's GitHub stats" /></a> &ensp;&ensp;&ensp; <a  href="http://www.github.com/iamKhang"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamKhang&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-  
-
-<a  href="http://www.github.com/iamKhang"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamKhang&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamKhang&theme=aura_dark)
 
   
 
@@ -80,5 +78,6 @@ My full name is Le Hoang Khang. This year I am 21 years old and currently I am a
 
 
 <b>Top Repositories</b>
-<div  width="100%"  align="center"><a  href="https://github.com/iamKhang/omega-book-3"  align="left"><img  align="left"  width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iamKhang&repo=omega-book-3&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a><a  href="https://github.com/iamKhang/computer-parts-shop"  align="right"><img  align="right"  width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iamKhang&repo=computer-parts-shop&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a></div>
-<div  width="100%"  align="center"><a  href="https://github.com/iamKhang/double-k-perfume"  align="left"><img  align="left"  width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iamKhang&repo=double-k-perfume&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/iamKhang/omega-book-3" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamKhang&repo=omega-book-3&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/iamKhang/computer-parts-shop" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamKhang&repo=computer-parts-shop&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br />
+<div width="100%" align="center"><a href="https://github.com/iamKhang/double-k-perfume" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamKhang&repo=double-k-perfume&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" /></a></div>
