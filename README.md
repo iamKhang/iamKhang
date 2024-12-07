@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lê Hoàng Khang</h1>
 <h align="center">My full name is Le Hoang Khang. This year I am 21 years old and currently I am a 4th year student majoring in Software Engineering at Ho Chi Minh City University of Industry. Maybe you think it's silly that my dream since high school was to become a chemistry teacher. But after graduating from high school, I realized that my real dream was to become a programmer. And currently I am trying very hard to become a good programmer.
 
-  
-
 * 🌍 I'm based in Ho Chi Minh, Viet Nam
-
-* ✉️ You can contact me at [hoangkhang.dev@gmail.com](mailto:hoangkhang.dev@gmail.com)
 
 * 🧠 I'm learning Software Engineering
 
@@ -13,7 +9,7 @@
   </h3>
 
 - 🌱 I’m currently learning **Electron, NestJS**
-- 📫 How to reach me: **hoangkhang.dev@gmail.com**
+- 📫You can contact me at [hoangkhang.dev@gmail.com](mailto:hoangkhang.dev@gmail.com)
 
 ### Connect with me:
 <p align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; max-width: 100px;">
@@ -26,7 +22,7 @@
 </p>
 
 ### 👨‍💻 Programming Languages
-<p align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<p align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; max-width: 200px;">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
@@ -37,7 +33,7 @@
 </p>
 
 ### 🎨 Frontend Development
-<p align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<p align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; max-width: 200px;">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
@@ -58,11 +54,6 @@
 ### 📱 Mobile App Development
 <p align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; max-width: 200px;">
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-</p>
-
-### 📊 Data Visualization
-<p align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; max-width: 200px;">
-  <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
 </p>
 
 ### 🗄️ Databases
@@ -96,9 +87,6 @@
   <a href="https://github.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40"/></a>
   <a href="https://www.kernel.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="linux" height="40"/></a>
 </p>
-
-
-
 
 
 ### 💻 GitHub Stats
