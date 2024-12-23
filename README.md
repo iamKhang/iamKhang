@@ -103,22 +103,3 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamKhang&theme=aura_dark" alt="GitHub Profile Summary" width="900" height="auto" />
 </div>
-
-### 🔧 My Top Repositories
-<div width="100%" align="center">
-  <a href="https://github.com/iamKhang/omega-book-3" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamKhang&repo=omega-book-3&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/iamKhang/computer-parts-shop" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamKhang&repo=computer-parts-shop&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" />
-  </a>
-</div><br /><br /><br /><br /><br />
-
-<div width="100%" align="center">
-  <a href="https://github.com/iamKhang/double-k-perfume" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamKhang&repo=double-k-perfume&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/iamKhang/doki" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamKhang&repo=doki&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en" />
-  </a>
-</div>
