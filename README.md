@@ -65,19 +65,3 @@
 💻 **Version Control & Operating Systems**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-### 💻 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 1000px; margin: 0 auto;">
-  <a href="http://www.github.com/iamKhang">
-    <img src="https://github-readme-stats.vercel.app/api?username=iamKhang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="iamKhang's GitHub stats" width="400" height="auto" />
-  </a>
-  &ensp;&ensp;&ensp;
-  <a href="http://www.github.com/iamKhang">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamKhang&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400" height="auto" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamKhang&theme=aura_dark" alt="GitHub Profile Summary" width="900" height="auto" />
-</div>
